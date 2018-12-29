@@ -1,0 +1,46 @@
+E:\M4练习\IAP\bin\Debug\IAP.exe.config
+E:\M4练习\IAP\bin\Debug\IAP.exe
+E:\M4练习\IAP\bin\Debug\IAP.pdb
+E:\M4练习\IAP\obj\Debug\IAP.csprojResolveAssemblyReference.cache
+E:\M4练习\IAP\obj\Debug\IAP.mainForm.resources
+E:\M4练习\IAP\obj\Debug\IAP.Properties.Resources.resources
+E:\M4练习\IAP\obj\Debug\IAP.csproj.GenerateResource.Cache
+E:\M4练习\IAP\obj\Debug\IAP.exe
+E:\M4练习\IAP\obj\Debug\IAP.pdb
+C:\Users\xiaob\Desktop\IAP\bin\Debug\IAP.exe.config
+C:\Users\xiaob\Desktop\IAP\bin\Debug\IAP.exe
+C:\Users\xiaob\Desktop\IAP\bin\Debug\IAP.pdb
+C:\Users\xiaob\Desktop\IAP\obj\Debug\IAP.mainForm.resources
+C:\Users\xiaob\Desktop\IAP\obj\Debug\IAP.Properties.Resources.resources
+C:\Users\xiaob\Desktop\IAP\obj\Debug\IAP.csproj.GenerateResource.Cache
+C:\Users\xiaob\Desktop\IAP\obj\Debug\IAP.exe
+C:\Users\xiaob\Desktop\IAP\obj\Debug\IAP.pdb
+C:\Users\xiaob\Desktop\IAP\obj\Debug\IAP.csprojResolveAssemblyReference.cache
+F:\project\IAP\bin\Debug\IAP.exe.config
+F:\project\IAP\obj\Debug\IAP.exe
+F:\project\IAP\obj\Debug\IAP.pdb
+F:\project\IAP\bin\Debug\IAP.exe
+F:\project\IAP\bin\Debug\IAP.pdb
+F:\project\IAP\obj\Debug\IAP.csprojResolveAssemblyReference.cache
+F:\project\IAP\obj\Debug\IAP.mainForm.resources
+F:\project\IAP\obj\Debug\IAP.Properties.Resources.resources
+F:\project\IAP\obj\Debug\IAP.csproj.GenerateResource.Cache
+G:\project\IAP\bin\Debug\IAP.exe.config
+G:\project\IAP\bin\Debug\IAP.exe
+G:\project\IAP\bin\Debug\IAP.pdb
+G:\project\IAP\obj\Debug\IAP.mainForm.resources
+G:\project\IAP\obj\Debug\IAP.Properties.Resources.resources
+G:\project\IAP\obj\Debug\IAP.csproj.GenerateResource.Cache
+G:\project\IAP\obj\Debug\IAP.exe
+G:\project\IAP\obj\Debug\IAP.pdb
+G:\project\IAP\obj\Debug\IAP.csprojResolveAssemblyReference.cache
+G:\Visual Studio workspace\Ymodem-IAP-master\bin\Debug\IAP.exe.config
+G:\Visual Studio workspace\Ymodem-IAP-master\bin\Debug\IAP.exe
+G:\Visual Studio workspace\Ymodem-IAP-master\bin\Debug\IAP.pdb
+G:\Visual Studio workspace\Ymodem-IAP-master\obj\Debug\IAP.csprojAssemblyReference.cache
+G:\Visual Studio workspace\Ymodem-IAP-master\obj\Debug\IAP.mainForm.resources
+G:\Visual Studio workspace\Ymodem-IAP-master\obj\Debug\IAP.Properties.Resources.resources
+G:\Visual Studio workspace\Ymodem-IAP-master\obj\Debug\IAP.csproj.GenerateResource.cache
+G:\Visual Studio workspace\Ymodem-IAP-master\obj\Debug\IAP.csproj.CoreCompileInputs.cache
+G:\Visual Studio workspace\Ymodem-IAP-master\obj\Debug\IAP.exe
+G:\Visual Studio workspace\Ymodem-IAP-master\obj\Debug\IAP.pdb

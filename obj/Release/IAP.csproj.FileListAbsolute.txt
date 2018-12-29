@@ -1,0 +1,10 @@
+G:\Visual Studio workspace\Ymodem-IAP-C#\bin\Release\IAP.exe.config
+G:\Visual Studio workspace\Ymodem-IAP-C#\bin\Release\IAP.exe
+G:\Visual Studio workspace\Ymodem-IAP-C#\bin\Release\IAP.pdb
+G:\Visual Studio workspace\Ymodem-IAP-C#\obj\Release\IAP.mainForm.resources
+G:\Visual Studio workspace\Ymodem-IAP-C#\obj\Release\IAP.Properties.Resources.resources
+G:\Visual Studio workspace\Ymodem-IAP-C#\obj\Release\IAP.csproj.GenerateResource.cache
+G:\Visual Studio workspace\Ymodem-IAP-C#\obj\Release\IAP.csproj.CoreCompileInputs.cache
+G:\Visual Studio workspace\Ymodem-IAP-C#\obj\Release\IAP.exe
+G:\Visual Studio workspace\Ymodem-IAP-C#\obj\Release\IAP.pdb
+G:\Visual Studio workspace\Ymodem-IAP-C#\obj\Release\IAP.csprojAssemblyReference.cache
